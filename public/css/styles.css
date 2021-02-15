@@ -1,0 +1,46 @@
+body {
+  background-color: #D0E8F2;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+text-align: center;
+width: 70%;
+margin: auto;
+color: #495464;
+font-size: 1.2rem;
+}
+
+input {
+  font-size: 1.2rem;
+  color: #495464;
+}
+
+button {
+  color: #495464;
+  font-size: 1.2rem;
+}
+
+h1 {
+  margin-bottom: 5%;
+  font-family: "Merienda", cursive;
+}
+
+img {
+  width: 40%;
+  margin-top: 5%;
+}
+
+footer {
+  text-align: center;
+  margin-top: 1%;
+  color: #7E8A97;
+}
+.freepik {
+  margin-top: 1%;
+  font-size: 0.7rem;
+}
+
+a {
+  color: #7E8A97;
+}
